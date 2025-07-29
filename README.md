@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm passionate about developing reliable, efficient, and u
 
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/aparna-chandran-017525361](https://linkedin.com/in/aparna-chandran-017525361)
-- Email: aparna@example.com
+- Email: aparnachandran432@gmail.com
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
